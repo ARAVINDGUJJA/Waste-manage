@@ -1,0 +1,32 @@
+# Waste Management System
+
+The **Waste Management System** is a website dedicated to promoting sustainable practices and proper disposal of waste. This site aims to raise awareness about the harmful effects of waste on the environment and health, and encourages recycling and effective waste management strategies.
+
+## Features
+
+- **Home Page:** Offers an overview of waste management and its importance.
+- **About Page:** Provides information about the goals and impact of waste management efforts.
+- **Services Page:** Lists services related to waste management.
+- **Contact Page:** Provides contact information for the website's team or support.
+
+### Key Sections
+
+- **Hero Section:** A welcoming message explaining the purpose of the website and the importance of waste management.
+- **Cards with Informational Links:**
+  - *Why Waste is Harmful?* — Information on how hazardous waste impacts the environment.
+  - *Recycling of Dry Waste* — The importance of recycling dry waste and its environmental effects.
+  - *Waste Management Techniques* — Overview of waste management practices and why they are important.
+  - *The 5 R’s of Waste Management* — Explanation of reducing, reusing, recycling, and other key methods to manage waste.
+  - *Role of Citizens and Government in Waste Management* — Discusses the responsibilities of citizens and government in waste management.
+
+- **Waste Management Awareness:** Describes the importance of raising awareness about waste reduction, reuse, and recycling.
+- **Recycling Process:** Details how recycling helps reduce waste and conserve resources.
+
+## Technologies Used
+
+- **HTML5**: Structure of the website.
+- **CSS**: Styling of the webpage. (Assumed to be in the `index.css` file)
+- **JavaScript**: Basic functionality and interactivity. (Ensure to define the `n1()` function in `script.js` file)
+- **Bootstrap**: For responsive design and layout.
+- **Font Awesome**: For social media icons.
+
